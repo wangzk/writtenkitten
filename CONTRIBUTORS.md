@@ -5,3 +5,4 @@ including those who aren't visible on Github for various reasons.
 - Emily Doyle / [@aquaprofundanet](http://twitter.com/aquaprofundanet)
 - Greg V / [myfreeweb](https://github.com/myfreeweb)
 - Joel Bradshaw / [cincodenada](https://github.com/cincodenada)
+- Zhaokang Wang / [wangzk](https://github.com/wangzk)
