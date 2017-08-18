@@ -92,3 +92,7 @@ body {
 .btns button:hover, .btn:hover {
     background: #f6f6f6;
 }
+
+#nextKitten {
+	display: none;
+}
