@@ -343,7 +343,15 @@ function word_count_markdown_editor() {
 <div id="main">
 <a name="top"></a>
 <h1>Markdown - Written? <span id="titleKitten">Kitten!</span><span id="titleSearch"></span></h1>
-<div id="kittenFrame">
+
+<div style="horizontal-align:center">
+  <input type="hidden" name="hidden_count" value="" disabled  />
+
+  <div id="markdown-editor">
+                <textarea style="display:none;"></textarea>
+  </div>
+</div>
+	<div id="kittenFrame">
     <img style="max-height:400px; max-width:400px;" id="kittenImg"></img>
   <div id="warning-no-ls" class="warning" style="display:none">
     <h2>Warning!</h2>
@@ -366,13 +374,6 @@ function word_count_markdown_editor() {
   <div id="kittenCredit"></div>
 </div>
 
-<form style="horizontal-align:left">
-  <input type="hidden" name="hidden_count" value="" disabled  />
-
-  <div id="markdown-editor">
-                <textarea style="display:none;"></textarea>
-  </div>
-</form>
 <form id="controls">
   <span class="meta">
     Fresh
